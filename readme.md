@@ -1,5 +1,5 @@
 # 📂 ✨ Open-CU
-Open up your clickup ticket from the command-line
+Open up your clickup ticket from the command-line on Mac and Windows
 
 ### Installation
 `npm install -g open-cu`
@@ -12,5 +12,5 @@ This tool works by inspecting the name of your current git branch and expects it
 It will then open up the url of https://app.clickup.com/t/(ticketId)
 
 ### Created By
-[![](https://github.com/suarezluis.png?size=50)](https://github.com/suarezluis) Luis Suarez  
-[![](https://github.com/Thunderducky.png?size=50)](https://github.com/Thunderducky) Eric Scott
+<img src="https://github.com/suarezluis.png?size=50" alt="Luis Suarez " style="display:inline-block; border-radius:25px" /> Luis Suarez
+<img src="https://github.com/thunderducky.png?size=50" alt="Eric Scott " style="isplay:inline-block; border-radius:25px"/> Eric Scott
