@@ -1,4 +1,4 @@
-# Open-CU
+# 📂 ✨ Open-CU
 Open up your clickup ticket from the command-line
 
 ### Installation
