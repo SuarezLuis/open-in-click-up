@@ -1,11 +1,11 @@
 # 📂 ✨ Open-CU
 Open up your clickup ticket from the command-line on Mac and Windows
 
-### Installation
+### 🛠️ Installation
 `npm install -g open-cu`
 
 ### Usage
-run `open-cu` in your command-line in your github repo on the appropriately named branch
+run `open-cu` in your command-line while in your github repo on the appropriately named branch
 
 This tool works by inspecting the name of your current git branch and expects it to follow the format of  
 `(something)CU-(ticketId)_(something)`
