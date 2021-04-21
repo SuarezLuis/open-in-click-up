@@ -1,8 +1,11 @@
 {
   "name": "open-cu",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "bin": {
+    "open-cu": "./bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
