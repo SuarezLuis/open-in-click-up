@@ -13,7 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/suarezluis/open-in-click-up.git"
   },
-  "keywords": [],
+  "keywords": [
+    "ClickUp",
+    "Click-Up",
+    "Click",
+    "Up",
+    "cli"
+  ],
   "author": "Luis Suarez, Eric Scott",
   "license": "ISC",
   "bugs": {
