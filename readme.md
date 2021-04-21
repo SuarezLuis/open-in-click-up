@@ -1,5 +1,5 @@
 # 📂 ✨ Open-CU
-Open up your clickup ticket from the command-line on Mac and Windows
+Open up your [ClickUp](https://clickup.com/) ticket from the command-line on Mac and Windows
 
 ### 🛠️ Installation
 `npm i -g open-cu`
