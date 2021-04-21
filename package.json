@@ -1,0 +1,20 @@
+{
+  "name": "open-cu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezluis/open-in-click-up.git"
+  },
+  "keywords": [],
+  "author": "Luis Suarez, Eric Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezluis/open-in-click-up/issues"
+  },
+  "homepage": "https://github.com/suarezluis/open-in-click-up#readme"
+}
