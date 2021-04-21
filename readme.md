@@ -2,7 +2,7 @@
 Open up your clickup ticket from the command-line on Mac and Windows
 
 ### 🛠️ Installation
-`npm install -g open-cu`
+`npm i -g open-cu`
 
 ### Usage
 run `open-cu` in your command-line while in your github repo on the appropriately named branch
