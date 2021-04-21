@@ -12,5 +12,5 @@ This tool works by inspecting the name of your current git branch and expects it
 It will then open up the url of https://app.clickup.com/t/(ticketId)
 
 ### Created By
-![Images-with-rounded-corners-and-shadow](https://github.com/suarezluis.png?size=50) Luis Suarez
-![Images-with-rounded-corners-and-shadow](https://github.com/thunderducky.png?size=50) Eric Scott
+![Luis Suarez](https://github.com/suarezluis.png?size=50) Luis Suarez
+![Eric Scott](https://github.com/thunderducky.png?size=50) Eric Scott
