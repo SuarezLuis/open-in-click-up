@@ -23,3 +23,6 @@ It will then open up the url of https://app.clickup.com/t/(ticketId)
     </td>
   </tr>
 </div>
+</table>
+
+[![wakatime](https://wakatime.com/badge/github/suarezluis/open-in-click-up.svg)](https://wakatime.com/badge/github/suarezluis/open-in-click-up)
